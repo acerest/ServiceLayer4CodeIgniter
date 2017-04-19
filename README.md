@@ -1,4 +1,5 @@
 # ServiceLayer4CodeIgniter
+[![Build Status](https://travis-ci.org/acerest/ServiceLayer4CodeIgniter.svg?branch=master)](https://travis-ci.org/acerest/ServiceLayer4CodeIgniter)
 
 The service layer for CodeIgniter(CI)
 
@@ -31,9 +32,13 @@ Service Layer: Build the main logic of one feature, this layer can call other se
 
 ## Changelog
 
-#### Ver 0.9
+#### Ver 0.9.0.0
 
 2017.4.17 - Init project.
+
+#### Ver 0.9.1.0
+
+2017.4.19 - Add Travis CI & PHPUnit
 
 ## About
 
