@@ -1,0 +1,10 @@
+language: php
+php:
+  - 5.3
+  - 5.4
+before_script:
+  - composer require kenjis/ci-phpunit-test --dev
+  - php vendor/kenjis/ci-phpunit-test/install.php
+script:
+  - cd application/tests/
+  - phpunit -v
