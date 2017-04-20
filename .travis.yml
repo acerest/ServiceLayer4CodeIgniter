@@ -11,3 +11,5 @@ before_script:
 script:
   - cd application/tests/
   - phpunit -v
+after_success:
+  - coveralls

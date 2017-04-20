@@ -1,6 +1,6 @@
 # ServiceLayer4CodeIgniter
 [![Build Status](https://travis-ci.org/acerest/ServiceLayer4CodeIgniter.svg?branch=master)](https://travis-ci.org/acerest/ServiceLayer4CodeIgniter)
-
+[![Coverage Status](https://coveralls.io/repos/github/acerest/ServiceLayer4CodeIgniter/badge.svg)](https://coveralls.io/github/acerest/ServiceLayer4CodeIgniter)
 The service layer for CodeIgniter(CI)
 
 Suitable for API applications
